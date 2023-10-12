@@ -1,0 +1,16 @@
+
+*.vsidx
+*.db
+*.lock
+.vs/wok-csgo/v17/.suo
+*.db-shm
+*.db-wal
+*.ipch
+*.opendb
+*.obj
+*.pdb
+*.recipe
+*.ilk
+*.log
+*.tlog
+*.bin
